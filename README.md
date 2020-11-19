@@ -1,24 +1,11 @@
-# autosaved-form-vue_firebase
 
-## Project setup
-```
-yarn install
-```
+#Autosaving Forms with Vue & Firestore
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+demo gif
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Project setup from this repo
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. `git clone <this-repo>`
+2. `npm install`
+3.  Add your firebase credentials to the `firebase.js`
+4. `npm run serve`
